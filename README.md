@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Nchofon Tagha Ghogomu  
 
 🎓 **MS. in Information Technology (Applied Machine Learning) | Carnegie Mellon University Africa** (Expected 2026)  
@@ -16,15 +14,10 @@ I am dedicated to leveraging **AI/ML and data analytics** to drive innovation in
 
 ## 💻 Skills & Technologies  
 - **Programming**: Python, MATLAB, Node.js, C++  
-- **AI/ML**: Scikit-learn, Pandas, Numpy, Keras, PyTorch. TinyML  
+- **AI/ML**: Scikit-learn, Pandas, Numpy, Keras, PyTorch, TinyML  
 - **Data Analytics**: Matplotlib, Seaborn  
 - **Project Management**: Agile, Research Methods  
 - **Languages**: English, French  
-
-## 📌 Connect with Me  
-- 📧 Email: [ntaghagh@andrew.cmu.edu](mailto:ntaghagh@andrew.cmu.edu)  
-- 🔗 LinkedIn: [linkedin.com/in/nchofon-tagha-ghogomu](https://www.linkedin.com/in/nchofon-tagha-ghogomu)  
-- 🔬 GitHub: [github.com/Nchofon](https://github.com/Nchofon)  
 
 💡 *Always open to collaborations and discussions on AI, healthcare innovation, and digital transformation in Africa!*  
 
