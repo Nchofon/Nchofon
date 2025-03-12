@@ -9,7 +9,8 @@ I am dedicated to leveraging **AI/ML and data analytics** to drive innovation in
 
 ## 🔬 Research & Projects  
 - **AI-Assisted Stethoscopy**: Enhancing **CVD discovery** in underserved communities at **CMU-Africa AI & Healthcare Research Lab.**  
-- **The Health Pad**: Developed a medical tablet with **real-time patient data acquisition** and embedded clinical sensors.  
+- **The Health Pad**: Developed a medical tablet with **real-time patient data acquisition** and embedded clinical sensors.
+- **Health Facility Distribution and Disease Prevalence Evaluation in Rwanda.** A Data-driven Approach  
 - **Data and Project Management** at Orange Money @ Orange Cameroon  
 
 ## 💻 Skills & Technologies  
