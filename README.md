@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nchofon Tagha Ghogomu  
+# 👋 Hi, I'm Nchofon Tagha Ghogomu.  
 
 🎓 **MS. in Information Technology (Applied Machine Learning) | Carnegie Mellon University Africa** (Expected 2026)  
 🤖 **Industrial Robotics** | École Nationale Supérieure Polytechnique de Douala (ENSPD) 
