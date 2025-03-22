@@ -15,7 +15,7 @@ I am dedicated to leveraging **AI/ML and data analytics** to drive innovation in
 
 ## 💻 Skills & Technologies  
 - **Programming**: Python, MATLAB, Node.js, C++  
-- **AI/ML**: Scikit-learn, Pandas, Numpy, Keras, PyTorch, TinyML  
+- **AI/ML**: Scikit-learn, Pandas, Numpy, Keras, TensorFlow, PyTorch, TinyML  
 - **Data Analytics**: Matplotlib, Seaborn  
 - **Project Management**: Agile, Research Methods  
 - **Languages**: English, French  
