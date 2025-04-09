@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nchofon Tagha Ghogomu.  
 
 🎓 **MS. in Information Technology (Applied Machine Learning) | Carnegie Mellon University Africa** (Expected 2026)  
-🤖 **Industrial Robotics** | École Nationale Supérieure Polytechnique de Douala (ENSPD) 
+🤖 **MEng in Industrial Robotics** | École Nationale Supérieure Polytechnique de Douala (ENSPD) 
 
 ## 🚀 About Me  
 I am dedicated to leveraging **AI/ML and data analytics** to drive innovation in healthcare, fintech, and digital transformation. My expertise spans **data science, machine learning, and software development**, with a strong background in research, mobile financial services, telecom, robotics, and embedded systems.  
