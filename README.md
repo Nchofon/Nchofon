@@ -18,7 +18,10 @@ I am dedicated to leveraging **AI/ML and data analytics** to drive innovation in
 - **AI/ML**: Scikit-learn, Pandas, Numpy, Keras, TensorFlow, PyTorch, TinyML  
 - **Data Analytics**: Matplotlib, Seaborn  
 - **Project Management**: Agile, Research Methods  
-- **Languages**: English, French  
+- **Languages**: English, French
+
+## 📄 Resume
+Download my resume: ([Resume Nchofon Tagha.pdf](https://github.com/user-attachments/files/19674830/Resume.Nchofon.Tagha.April.pdf))
 
 💡 *Always open to collaborations and discussions on AI, healthcare innovation, and digital transformation in Africa!*  
 
