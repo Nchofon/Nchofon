@@ -21,7 +21,11 @@ I am dedicated to leveraging **AI/ML and data analytics** to drive innovation in
 - **Languages**: English, French
 
 ## 📄 Resume
-Download my resume: ([Resume Nchofon Tagha.pdf](https://github.com/user-attachments/files/19674830/Resume.Nchofon.Tagha.April.pdf))
+Yes! you can download my resume. Let me know if you need more information. 
+
+<a href="https://github.com/user-attachments/files/19674830/Resume.Nchofon.Tagha.April.pdf" download>
+  <img alt="Download Resume" src="https://img.shields.io/badge/Download_Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=red" />
+</a>
 
 💡 *Always open to collaborations and discussions on AI, healthcare innovation, and digital transformation in Africa!*  
 
