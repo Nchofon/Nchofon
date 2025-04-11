@@ -27,7 +27,9 @@ Yes! you can download my resume. Let me know if you need more information.
   <img alt="Download Resume" src="https://img.shields.io/badge/Download_Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=red" />
 </a>
 
-💡 *Always open to collaborations and discussions on AI, healthcare innovation, and digital transformation in Africa!*  
+##
+
+💡 *Always open to collaborations and discussions around research, AI/ML, innovation, data analytics, healthcare, and digital transformation in Africa!*  
 
 
 <!--
