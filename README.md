@@ -30,6 +30,8 @@ Yes! you can download my resume. Let me know if you need more information.
 ## 🏅 Badges
 
 [![aws-educate-machine-learning-foundations](https://github.com/user-attachments/assets/7f87e564-5615-47fd-8b9e-21fea1156217)](https://www.credly.com/badges/2f48d553-320c-4cd2-aec7-30a721b731aa/public_url)
+[![google-project-management-certificate-v1](https://github.com/user-attachments/assets/f6ba9c6b-5b28-45a5-b56d-20d7bdbedc9a)](https://www.credly.com/badges/548cfc4b-a41f-40f0-a80b-02be3793c028/public_url)
+
 
 ##
 
@@ -41,7 +43,8 @@ Yes! you can download my resume. Let me know if you need more information.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ![Uploading google-project-management-certificate-v1.png…]()
+n ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
