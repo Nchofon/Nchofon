@@ -27,6 +27,10 @@ Yes! you can download my resume. Let me know if you need more information.
   <img alt="Download Resume" src="https://img.shields.io/badge/Download_Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=red" />
 </a>
 
+## 🏅 Badges
+
+[![aws-educate-machine-learning-foundations](https://github.com/user-attachments/assets/7f87e564-5615-47fd-8b9e-21fea1156217)](https://www.credly.com/badges/2f48d553-320c-4cd2-aec7-30a721b731aa/public_url)
+
 ##
 
 💡 *Always open to collaborations and discussions around research, AI/ML, innovation, data analytics, healthcare, and digital transformation in Africa!*  
